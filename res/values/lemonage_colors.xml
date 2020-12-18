@@ -15,4 +15,7 @@
     <!-- Settings header color -->
     <color name="settingsHeaderColor">@*android:color/accent_device_default_light</color>
 
+    <!-- Color of the divider in battery settings -->
+    <color name="tl_preference_divider_bg">#dcdcdc</color>   
+
 </resources>

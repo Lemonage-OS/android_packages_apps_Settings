@@ -71,4 +71,7 @@
     <string name="enable_wallpaper_zoom_title">Wallpaper zooming</string>
     <string name="enable_wallpaper_zoom_summary">Adds a sense of depth to the home screen. When disabled, wallpapers will be displayed at the highest possible quality</string>
 
+    <!-- Battery Stats Menu -->
+    <string name="battery_menu_stats_total">View detailed usage</string>
+
 </resources>
