@@ -63,4 +63,8 @@
     <string name="show_fourg_icon_title">4G icon</string>
     <string name="show_fourg_icon_summary">Display 4G icon instead of LTE in status bar</string>
 
+    <!-- Data disabled icon -->
+    <string name="data_disabled_icon_title">Data disabled icon</string>
+    <string name="data_disabled_icon_summary">Display a cross sign next to the signal bar when data is disabled</string>
+
 </resources>
