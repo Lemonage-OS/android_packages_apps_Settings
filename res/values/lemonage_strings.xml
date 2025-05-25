@@ -67,4 +67,8 @@
     <string name="data_disabled_icon_title">Data disabled icon</string>
     <string name="data_disabled_icon_summary">Display a cross sign next to the signal bar when data is disabled</string>
 
+    <!-- Wallpaper zooming -->
+    <string name="enable_wallpaper_zoom_title">Wallpaper zooming</string>
+    <string name="enable_wallpaper_zoom_summary">Adds a sense of depth to the home screen. When disabled, wallpapers will be displayed at the highest possible quality</string>
+
 </resources>
