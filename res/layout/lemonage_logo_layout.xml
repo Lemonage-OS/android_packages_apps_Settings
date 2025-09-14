@@ -27,7 +27,7 @@
         android:layout_height="200dp"
         android:src="@drawable/lemonage_logo"
         android:scaleType="centerInside"
-        android:layout_marginTop="4dp"
-        android:layout_marginBottom="4dp"
+        android:layout_marginTop="@dimen/lemonage_logo_layout_margin_top"
+        android:layout_marginBottom="@dimen/lemonage_logo_layout_margin_bottom"
         android:adjustViewBounds="true" />
 </LinearLayout>
