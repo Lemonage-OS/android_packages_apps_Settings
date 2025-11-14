@@ -69,7 +69,7 @@ public class MediaControlsSettings extends SettingsPreferenceFragment implements
             boolean value = (Boolean) newValue;
             Settings.System.putInt(resolver,
                     Settings.System.QS_MEDIA_PLAYER, value ? 1 : 0);
-            com.ssos.shapeshifter.utils.Utils.showSystemUiRestartDialog(getContext());
+            com.android.settings.utils.Utils.showSystemUiRestartDialog(getContext());
             return true;
         }
         return false;

@@ -93,4 +93,7 @@
     <string name="qs_media_player_summary_off_controller">Showing media player as a notification</string>
     <string name="media_controls_summary_resumption">Media player resumption</string>
 
+    <!-- SystemUI Restart -->
+    <string name="systemui_restart_toast">This feature requires a SystemUI restart to be applied. We\'ll restart the SystemUI right now.</string>
+
 </resources>
